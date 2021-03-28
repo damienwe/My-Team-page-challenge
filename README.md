@@ -38,20 +38,15 @@
 
 ![screenshot](/my_team_screenshot.JPG)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+I used CSS display: flex, flex-wrap: wrap and flex-direction: column; to create the grid layout for this challenge.  This means that the order of the team members are not as the user story when the small screen size is selected but the spacing is kept consistent with the user story.  I would appreciate any feedback on how I could keep the order as it should be on the smaller screen.  Thanks for checking out my challenge solution.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- HTML
+- CSS
 
 ## Features
 
@@ -70,6 +65,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [https://https://damienwe.github.io/cv/](https://https://damienwe.github.io/cv/)
+- GitHub [https://github.com/damienwe](https://github.com/damienwe)
+- Twitter [https://twitter.com/Damien_Wev](https://twitter.com/Damien_Wev)

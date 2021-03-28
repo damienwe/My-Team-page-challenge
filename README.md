@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://damienwe.github.io/My-Team-page-challenge/">
+    <a href="https://damienwe.github.io/My-Team-page-challenge/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/damienwe/My-Team-page-challenge">
       Solution
     </a>
     <span> | </span>

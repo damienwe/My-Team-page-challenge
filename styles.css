@@ -65,7 +65,7 @@ footer {
 @media (max-width: 990px) {
 
   body {
-    margin: 10px 10% 5px 10%;
+    margin: auto 10% 5px auto;
     width: 500px
   }
 
